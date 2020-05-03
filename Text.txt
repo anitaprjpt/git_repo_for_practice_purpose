@@ -1,1 +1,11 @@
 hellp i am very happy and very strong lady
+ourse for beginners========
+1.install python IDE
+2.install selenium(using command[pip install -U selenium])
+3.install pycharm
+=========================================
+-----------------------------------------
+configure selenium in pycharm--->>
+------------------------------------
+open pycharm ->go to file->go to settings->click on project(file name will be mentioned)->go to project interpreter->click on + button->search selenium and then install selenium package and then this selenium package will be installed with pycharm.
+========================================
